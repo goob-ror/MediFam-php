@@ -1,0 +1,202 @@
+/* Konsultasi Page Styles */
+.konsultasi-subtitle {
+  font-size: 1rem;
+  color: #6b7280;
+  margin: -1rem 0 2rem 0;
+}
+
+/* Bidan Grid */
+.bidan-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+/* Bidan Card */
+.bidan-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+}
+
+.bidan-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  border-color: #51CBFF;
+}
+
+.bidan-avatar-wrapper {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.bidan-avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #e5e7eb;
+}
+
+.bidan-status {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+
+.bidan-status.available {
+  background: #10b981;
+}
+
+.bidan-status.unavailable {
+  background: #ef4444;
+}
+
+.bidan-info {
+  flex: 1;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.bidan-name {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #1f2937;
+  margin: 0 0 0.5rem 0;
+}
+
+.bidan-specialization {
+  font-size: 0.9375rem;
+  color: #51CBFF;
+  font-weight: 500;
+  margin: 0 0 0.25rem 0;
+}
+
+.bidan-experience {
+  font-size: 0.875rem;
+  color: #6b7280;
+  margin: 0 0 0.75rem 0;
+}
+
+.bidan-availability {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.375rem 0.75rem;
+  background: #f3f4f6;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  color: #6b7280;
+}
+
+.bidan-availability svg {
+  color: #51CBFF;
+}
+
+/* WhatsApp Button */
+.btn-whatsapp {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  background: #25D366;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-whatsapp:hover:not(:disabled) {
+  background: #20BA5A;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(37, 211, 102, 0.4);
+}
+
+.btn-whatsapp:disabled {
+  background: #d1d5db;
+  color: #9ca3af;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.btn-whatsapp svg {
+  flex-shrink: 0;
+}
+
+/* Empty State */
+.empty-state {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.empty-state svg {
+  color: #d1d5db;
+  margin-bottom: 1rem;
+}
+
+.empty-state p {
+  font-size: 1rem;
+  color: #6b7280;
+  margin: 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .bidan-grid {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+
+  .bidan-card {
+    padding: 1.25rem;
+  }
+
+  .bidan-avatar {
+    width: 80px;
+    height: 80px;
+  }
+
+  .konsultasi-subtitle {
+    font-size: 0.9375rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .bidan-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .bidan-card {
+    padding: 1rem;
+  }
+
+  .bidan-name {
+    font-size: 1rem;
+  }
+
+  .btn-whatsapp {
+    font-size: 0.875rem;
+    padding: 0.625rem 1rem;
+  }
+}

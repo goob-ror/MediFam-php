@@ -1,0 +1,95 @@
+[2026-03-23T02:02:45.879Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:02:45.984Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:02:45.992Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:02:45.992Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:14:43.072Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:14:43.152Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:14:43.169Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:14:43.170Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:15:00.020Z] [INFO] === Session Status Update Job Started ===
+[2026-03-23T02:15:00.023Z] [INFO] Starting session status update job
+[2026-03-23T02:15:00.059Z] [INFO] Updated 1 sessions to SELESAI (berlangsung: 0, terjadwal: 1)
+[2026-03-23T02:15:00.060Z] [SUCCESS] Session status update completed. Total updated: 1
+[2026-03-23T02:15:00.061Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-23T02:21:54.547Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:21:54.651Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:21:54.662Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:21:54.663Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:22:00.364Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:22:00.480Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:22:00.496Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:22:00.499Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:22:02.404Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:22:02.479Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:22:02.496Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:22:02.498Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:22:04.687Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:22:04.733Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:22:04.746Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:22:04.747Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:22:14.789Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:22:14.836Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:22:14.847Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:22:14.848Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:25:21.322Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:25:22.792Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:25:22.868Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:25:22.878Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:25:22.879Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:30:00.021Z] [INFO] === Session Status Update Job Started ===
+[2026-03-23T02:30:00.024Z] [INFO] Starting session status update job
+[2026-03-23T02:30:00.033Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-23T02:30:00.034Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-23T02:30:16.958Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:30:16.998Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:30:17.009Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:30:17.011Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:30:25.728Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:30:25.848Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:30:25.865Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:30:25.867Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:30:36.143Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:30:36.250Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:30:36.263Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:30:36.264Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:30:37.655Z] [INFO] Initializing cron jobs...
+[2026-03-23T02:30:37.843Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-23T02:30:37.876Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-23T02:30:37.878Z] [INFO] All cron jobs initialized successfully
+[2026-03-23T02:45:00.040Z] [INFO] === Session Status Update Job Started ===
+[2026-03-23T02:45:00.043Z] [INFO] Starting session status update job
+[2026-03-23T02:45:00.054Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-23T02:45:00.055Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-23T03:00:00.027Z] [INFO] === Session Status Update Job Started ===
+[2026-03-23T03:00:00.029Z] [INFO] Starting session status update job
+[2026-03-23T03:00:00.035Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-23T03:00:00.035Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-23T03:15:00.024Z] [INFO] === Session Status Update Job Started ===
+[2026-03-23T03:15:00.026Z] [INFO] Starting session status update job
+[2026-03-23T03:15:00.031Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-23T03:15:00.032Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-23T03:30:00.025Z] [INFO] === Session Status Update Job Started ===
+[2026-03-23T03:30:00.026Z] [INFO] Starting session status update job
+[2026-03-23T03:30:00.030Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-23T03:30:00.031Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-23T03:45:00.041Z] [INFO] === Session Status Update Job Started ===
+[2026-03-23T03:45:00.044Z] [INFO] Starting session status update job
+[2026-03-23T03:45:00.052Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-23T03:45:00.052Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-23T04:00:00.039Z] [INFO] === Session Status Update Job Started ===
+[2026-03-23T04:00:00.041Z] [INFO] Starting session status update job
+[2026-03-23T04:00:00.049Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-23T04:00:00.049Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-23T04:15:00.037Z] [INFO] === Session Status Update Job Started ===
+[2026-03-23T04:15:00.038Z] [INFO] Starting session status update job
+[2026-03-23T04:15:00.049Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-23T04:15:00.049Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-23T04:30:00.044Z] [INFO] === Session Status Update Job Started ===
+[2026-03-23T04:30:00.046Z] [INFO] Starting session status update job
+[2026-03-23T04:30:00.056Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-23T04:30:00.058Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-23T04:45:00.030Z] [INFO] === Session Status Update Job Started ===
+[2026-03-23T04:45:00.032Z] [INFO] Starting session status update job
+[2026-03-23T04:45:00.044Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-23T04:45:00.046Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-23T04:45:40.932Z] [INFO] Initializing cron jobs...

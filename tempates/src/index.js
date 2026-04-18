@@ -1,0 +1,26 @@
+import { initRouter } from "./router";
+import "./styles/pages/landingPage.css";
+import "./styles/pages/login.css";
+import "./styles/pages/registrasi.css";
+import "./styles/pages/dashboardUser.css";
+import "./styles/pages/dashboardBidan.css";
+import "./styles/pages/konsultasi.css";
+import "./styles/pages/history.css";
+import "./styles/pages/pengaturan.css";
+import "./styles/pages/galeri.css";
+import "./styles/pages/profile.css";
+import "./styles/pages/manajemenPasien.css";
+import "./styles/pages/manajemenSesi.css";
+import "./styles/pages/sesi-form.css";
+import "./styles/pages/manajemenPendaftar.css";
+import "./styles/pages/formSession.css";
+import "./styles/pages/forgotPassword.css";
+import "./styles/pages/detailPasien.css";
+import "./styles/pages/components/navbar.css";
+import "./styles/pages/components/footer.css";
+import "datatables.net-dt/css/dataTables.dataTables.css";
+import "flatpickr/dist/flatpickr.min.css";
+import "select2/dist/css/select2.min.css";
+import "./styles/pages/layout-fix.css";
+
+initRouter();

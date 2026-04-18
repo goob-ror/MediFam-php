@@ -1,0 +1,606 @@
+[2026-03-29T07:11:44.617Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:11:44.680Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:11:44.693Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:11:44.694Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:15:00.036Z] [INFO] === Session Status Update Job Started ===
+[2026-03-29T07:15:00.037Z] [INFO] Starting session status update job
+[2026-03-29T07:15:00.057Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-29T07:15:00.061Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-29T07:27:33.755Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:27:33.851Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:27:33.859Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:27:33.860Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:28:03.961Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:28:04.092Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:28:04.126Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:28:04.128Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:28:15.640Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:28:15.782Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:28:15.806Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:28:15.807Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:28:17.379Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:28:17.429Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:28:17.440Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:28:17.441Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:28:17.999Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T07:30:00.033Z] [INFO] === Session Status Update Job Started ===
+[2026-03-29T07:30:00.035Z] [INFO] Starting session status update job
+[2026-03-29T07:30:00.046Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-29T07:30:00.046Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-29T07:45:00.025Z] [INFO] === Session Status Update Job Started ===
+[2026-03-29T07:45:00.026Z] [INFO] Starting session status update job
+[2026-03-29T07:45:00.033Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-29T07:45:00.033Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-29T07:49:59.095Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:49:59.163Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:49:59.169Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:49:59.170Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:50:00.089Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T07:50:12.551Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:50:12.598Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:50:12.606Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:50:12.613Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:50:13.168Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T07:50:24.231Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:50:24.313Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:50:24.321Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:50:24.327Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:50:25.382Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T07:50:37.448Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:50:37.504Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:50:37.516Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:50:37.517Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:50:38.263Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T07:51:13.717Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:51:13.761Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:51:13.770Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:51:13.770Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:51:15.291Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T07:56:49.360Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:56:49.406Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:56:49.411Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:56:49.412Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:56:50.291Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T07:56:58.713Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:56:58.777Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:56:58.784Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:56:58.786Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:57:00.644Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T07:58:24.586Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:58:24.662Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:58:24.677Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:58:24.679Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:58:26.458Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T07:58:28.373Z] [INFO] Initializing cron jobs...
+[2026-03-29T07:58:28.444Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T07:58:28.450Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T07:58:28.451Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T07:58:29.049Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:00:00.032Z] [INFO] === Session Status Update Job Started ===
+[2026-03-29T08:00:00.035Z] [INFO] Starting session status update job
+[2026-03-29T08:00:00.047Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-29T08:00:00.048Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-29T08:02:09.675Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:02:09.757Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:02:09.774Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:02:09.775Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:02:10.534Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:02:37.792Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:02:37.870Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:02:37.892Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:02:37.895Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:02:38.955Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:02:43.000Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:02:43.053Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:02:43.060Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:02:43.061Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:02:43.590Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:05:14.136Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:05:14.196Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:05:14.208Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:05:14.208Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:05:14.911Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:05:17.997Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:05:18.049Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:05:18.060Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:05:18.061Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:05:18.741Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:06:59.664Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:06:59.745Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:06:59.751Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:06:59.754Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:07:01.194Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:07:28.450Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:07:28.533Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:07:28.560Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:07:28.561Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:07:29.162Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:08:01.367Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:08:01.512Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:08:01.531Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:08:01.534Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:08:05.887Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:08:05.997Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:08:06.016Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:08:06.018Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:08:08.898Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:08:12.339Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:08:12.469Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:08:12.496Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:08:12.500Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:08:13.578Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:08:26.599Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:08:26.815Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:08:26.856Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:08:26.863Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:08:28.456Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:12:39.556Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:12:39.644Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:12:39.660Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:12:39.661Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:12:40.633Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:14:25.981Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:14:26.049Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:14:26.062Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:14:26.063Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:14:26.836Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:15:00.025Z] [INFO] === Session Status Update Job Started ===
+[2026-03-29T08:15:00.027Z] [INFO] Starting session status update job
+[2026-03-29T08:15:00.036Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-29T08:15:00.036Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-29T08:20:21.779Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:20:21.991Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:20:22.036Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:20:22.037Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:20:23.826Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:20:28.893Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:20:28.993Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:20:29.019Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:20:29.020Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:20:34.645Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:20:34.743Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:20:34.758Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:20:34.758Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:20:35.734Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:20:51.884Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:20:51.959Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:20:51.971Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:20:51.972Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:20:52.481Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:21:13.870Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:21:14.138Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:21:14.154Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:21:14.154Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:21:19.477Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:21:19.689Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:21:19.704Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:21:19.705Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:21:22.268Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:21:22.341Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:21:22.351Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:21:22.352Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:21:22.913Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:21:33.695Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:21:33.861Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:21:33.875Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:21:33.876Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:21:36.004Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:21:36.044Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:21:36.051Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:21:36.052Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:21:36.564Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:21:50.371Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:21:50.443Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:21:50.464Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:21:50.469Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:21:51.158Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:22:00.010Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:22:00.178Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:22:00.207Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:22:00.208Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:22:03.487Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:22:03.641Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:22:03.674Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:22:03.675Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:22:11.256Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:22:11.360Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:22:11.376Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:22:11.378Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:22:12.054Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:22:17.535Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:22:17.601Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:22:17.612Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:22:17.613Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:22:18.258Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:22:25.223Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:22:25.439Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:22:25.456Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:22:25.457Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:22:27.060Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:22:31.631Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:22:31.754Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:22:31.778Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:22:31.807Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:22:32.923Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:22:35.707Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:22:35.771Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:22:35.777Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:22:35.778Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:22:36.345Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:22:40.936Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:22:41.048Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:22:41.096Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:22:41.109Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:22:42.545Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:22:44.306Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:22:44.373Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:22:44.379Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:22:44.380Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:22:44.942Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:22:50.406Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:22:50.480Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:22:50.497Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:22:50.505Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:22:51.182Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:23:24.155Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:23:24.308Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:23:24.322Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:23:24.323Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:23:26.593Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:23:29.910Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:23:30.173Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:23:30.190Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:23:30.194Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:23:33.656Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:23:33.790Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:23:33.806Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:23:33.808Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:23:34.224Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:23:38.262Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:23:38.396Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:23:38.413Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:23:38.415Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:23:43.512Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:23:43.645Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:23:43.700Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:23:43.707Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:23:45.129Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:23:50.324Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:23:50.414Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:23:50.429Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:23:50.436Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:23:51.253Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:24:06.249Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:24:06.401Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:24:06.427Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:24:06.429Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:24:07.400Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:24:13.200Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:24:13.382Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:24:13.418Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:24:13.423Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:24:15.475Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:24:21.823Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:24:22.007Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:24:22.040Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:24:22.042Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:24:25.973Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:24:26.130Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:24:26.147Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:24:26.152Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:24:27.044Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:24:30.756Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:24:30.850Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:24:30.875Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:24:30.877Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:24:31.654Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:24:53.776Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:24:53.862Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:24:53.876Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:24:53.878Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:24:55.777Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:24:57.362Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:24:57.434Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:24:57.444Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:24:57.445Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:24:58.466Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:25:05.193Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:25:05.293Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:25:05.303Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:25:05.309Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:25:06.124Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:25:24.533Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:25:24.620Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:25:24.644Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:25:24.645Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:25:25.193Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:25:27.375Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:25:27.449Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:25:27.468Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:25:27.470Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:25:28.348Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:25:37.860Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:25:37.926Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:25:37.935Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:25:37.937Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:25:38.547Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:25:45.231Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:25:45.331Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:25:45.348Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:25:45.349Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:25:46.428Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:25:49.050Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:25:49.175Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:25:49.193Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:25:49.195Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:25:52.944Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:25:53.119Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:25:53.136Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:25:53.138Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:25:55.865Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:25:56.027Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:25:56.050Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:25:56.065Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:25:57.676Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:26:00.480Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:26:00.584Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:26:00.603Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:26:00.605Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:26:01.463Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:26:07.515Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:26:07.687Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:26:07.704Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:26:07.709Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:26:09.939Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:26:13.593Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:26:13.829Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:26:13.846Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:26:13.848Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:26:16.380Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:26:45.944Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:26:46.000Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:26:46.006Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:26:46.006Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:26:46.771Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:26:54.363Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:26:54.449Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:26:54.472Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:26:54.474Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:26:55.401Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:26:58.149Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:26:58.204Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:26:58.221Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:26:58.223Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:26:58.803Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:27:06.928Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:27:07.003Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:27:07.015Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:27:07.016Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:27:07.528Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:27:33.544Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:27:33.607Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:27:33.623Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:27:33.625Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:27:34.417Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:27:37.563Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:27:37.616Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:27:37.623Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:27:37.624Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:27:38.175Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:29:41.051Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:29:41.156Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:29:41.184Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:29:41.187Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:29:44.183Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:29:44.267Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:29:44.277Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:29:44.282Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:29:45.067Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:30:00.045Z] [INFO] === Session Status Update Job Started ===
+[2026-03-29T08:30:00.048Z] [INFO] Starting session status update job
+[2026-03-29T08:30:00.067Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-29T08:30:00.068Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-29T08:30:33.309Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:30:33.374Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:30:33.386Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:30:33.387Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:30:33.906Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:30:36.958Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:30:37.009Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:30:37.019Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:30:37.020Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:30:37.855Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:31:01.138Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:31:01.233Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:31:01.256Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:31:01.257Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:31:04.458Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:31:04.626Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:31:04.639Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:31:04.652Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:31:11.288Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:31:11.352Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:31:11.359Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:31:11.360Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:31:12.521Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:31:15.888Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:31:16.098Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:31:16.124Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:31:16.125Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:31:17.382Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:31:20.992Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:31:21.106Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:31:21.136Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:31:21.138Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:31:22.417Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:31:25.257Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:31:25.406Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:31:25.441Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:31:25.442Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:31:27.945Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:31:28.062Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:31:28.091Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:31:28.104Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:31:28.972Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:31:42.614Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:31:42.698Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:31:42.709Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:31:42.710Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:31:43.770Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:31:52.515Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:31:52.614Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:31:52.629Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:31:52.632Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:31:53.547Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:32:27.196Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:32:27.296Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:32:27.314Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:32:27.321Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:32:28.137Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:32:30.481Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:32:30.573Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:32:30.793Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:32:30.798Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:32:32.131Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:33:22.146Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:33:22.281Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:33:22.299Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:33:22.306Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:33:23.370Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:33:58.695Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:33:58.824Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:33:58.834Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:33:58.841Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:34:01.259Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:34:01.327Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:34:01.334Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:34:01.336Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:34:02.019Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:34:04.365Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:34:04.484Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:34:04.502Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:34:04.509Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:34:05.336Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:34:47.174Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:34:47.301Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:34:47.319Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:34:47.320Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:34:49.110Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:34:56.957Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:34:57.063Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:34:57.080Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:34:57.083Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:34:58.087Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:35:37.961Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:35:38.083Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:35:38.098Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:35:38.101Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:35:39.947Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:35:40.017Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:35:40.027Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:35:40.028Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:35:40.524Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:36:09.876Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:36:09.909Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:36:09.918Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:36:09.919Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:36:10.706Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:36:27.399Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:36:27.470Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:36:27.480Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:36:27.482Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:36:27.945Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:38:31.143Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:38:31.351Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:38:31.378Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:38:31.386Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:38:32.322Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:40:23.173Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:40:23.308Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:40:23.323Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:40:23.326Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:40:24.208Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:42:04.709Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:42:04.797Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:42:04.815Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:42:04.816Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:42:06.004Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:44:36.501Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:44:36.571Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:44:36.581Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:44:36.582Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:44:37.533Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:44:50.411Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:44:50.771Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:44:50.791Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:44:50.797Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:44:51.428Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:45:00.049Z] [INFO] === Session Status Update Job Started ===
+[2026-03-29T08:45:00.052Z] [INFO] Starting session status update job
+[2026-03-29T08:45:00.063Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-29T08:45:00.063Z] [INFO] === Session Status Update Job Completed ===
+[2026-03-29T08:45:02.352Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:45:02.399Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:45:02.405Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:45:02.410Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:45:02.891Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:47:08.571Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:47:11.033Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:47:11.123Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:47:11.137Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:47:11.138Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:47:11.869Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:53:18.184Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:53:18.270Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:53:18.287Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:53:18.299Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:53:19.889Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:56:19.115Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:56:19.236Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:56:19.258Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:56:19.268Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:56:20.577Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:56:27.980Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:56:28.090Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:56:28.108Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:56:28.109Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:56:29.445Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:56:38.083Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:56:38.204Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:56:38.216Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:56:38.218Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:56:39.389Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:56:48.443Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:56:48.601Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:56:48.617Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:56:48.619Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:56:50.008Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:56:57.299Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:56:57.442Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:56:57.467Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:56:57.469Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:56:58.435Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:57:04.556Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:57:04.875Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:57:04.925Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:57:04.928Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:57:06.430Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:57:11.687Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:57:11.820Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:57:11.851Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:57:11.852Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:57:13.133Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:57:23.123Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:57:23.374Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:57:23.407Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:57:23.432Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:57:25.057Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T08:57:34.194Z] [INFO] Initializing cron jobs...
+[2026-03-29T08:57:34.387Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
+[2026-03-29T08:57:34.411Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
+[2026-03-29T08:57:34.419Z] [INFO] All cron jobs initialized successfully
+[2026-03-29T08:57:36.455Z] [WARN] ngrok exited with code 1 — tunnel unavailable
+[2026-03-29T09:00:00.059Z] [INFO] === Session Status Update Job Started ===
+[2026-03-29T09:00:00.063Z] [INFO] Starting session status update job
+[2026-03-29T09:00:00.095Z] [SUCCESS] Session status update completed. Total updated: 0
+[2026-03-29T09:00:00.095Z] [INFO] === Session Status Update Job Completed ===

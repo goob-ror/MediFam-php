@@ -1,0 +1,121 @@
+/* Detail Pasien - page-specific styles only */
+/* Reuses fs-card, fs-section-title, fs-info-grid, fs-info-col, fs-info-row, fs-info-subtitle, fs-info-divider from formSession.css */
+
+.dp-back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: #6b7280;
+  text-decoration: none;
+  font-size: 0.875rem;
+  font-weight: 500;
+  margin-bottom: 0.4rem;
+  transition: color 0.2s;
+}
+
+.dp-back-link:hover {
+  color: #51cbff;
+}
+
+/* Jadwal card accent */
+.dp-jadwal-card {
+  border-left: 4px solid #51cbff;
+}
+
+.dp-jadwal-date {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin: 0;
+}
+
+/* No data */
+.dp-no-data {
+  color: #9ca3af;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+/* History cards */
+.dp-history-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  margin-bottom: 0.75rem;
+  overflow: hidden;
+}
+
+.dp-history-card:last-child {
+  margin-bottom: 0;
+}
+
+.history-toggle {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.875rem 1.25rem;
+  background: #f9fafb;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.2s;
+  gap: 1rem;
+}
+
+.history-toggle:hover {
+  background: #f3f4f6;
+}
+
+.history-toggle.is-open {
+  background: #eff9ff;
+}
+
+.dp-toggle-left {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  flex: 1;
+}
+
+.dp-toggle-date {
+  font-size: 0.9rem;
+  color: #4b5563;
+  font-weight: 500;
+}
+
+.dp-toggle-kontrasepsi {
+  font-size: 0.875rem;
+  color: #6b7280;
+}
+
+.dp-toggle-icon {
+  flex-shrink: 0;
+  color: #9ca3af;
+  transition: transform 0.2s;
+}
+
+.history-toggle.is-open .dp-toggle-icon {
+  transform: rotate(180deg);
+}
+
+.dp-history-body {
+  padding: 1.25rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+/* Status badges */
+.dp-badge {
+  display: inline-block;
+  padding: 0.2rem 0.65rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.dp-badge-baru      { background: #dbeafe; color: #1d4ed8; }
+.dp-badge-ulangan   { background: #d1fae5; color: #065f46; }
+.dp-badge-cabut     { background: #fee2e2; color: #991b1b; }
+.dp-badge-ganti     { background: #fef3c7; color: #92400e; }
+.dp-badge-konseling { background: #ede9fe; color: #5b21b6; }
