@@ -1,4 +1,0 @@
-[2026-04-14T15:57:58.321Z] [INFO] Initializing cron jobs...
-[2026-04-14T15:57:58.404Z] [INFO] Session status updater cron job scheduled (runs every 15 mins
-[2026-04-14T15:57:58.432Z] [INFO] Session reminder cron job scheduled (runs daily at 08:00)
-[2026-04-14T15:57:58.433Z] [INFO] All cron jobs initialized successfully
